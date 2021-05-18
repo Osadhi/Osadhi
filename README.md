@@ -20,6 +20,8 @@ Apart from coding, I also write answers on [Stack Overflow](https://stackoverflo
 ![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 
 ### Github Stats 📈
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Osadhi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_radius=25)](https://github.com/Osadhi)
 [![](https://github-readme-stats.vercel.app/api?username=Osadhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Osadhi)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Osadhi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_radius=25)](https://github.com/Osadhi)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Osadhi&repo=Local-Port-Scanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Osadhi/Local-Port-Scanner)
