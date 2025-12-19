@@ -1,27 +1,98 @@
-# Hello 👋
-My name is Osadhi Virochana. I'm from Sri Lanka and currently study in Royal College.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=300&section=header&text=Osadhi%20Virochana&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=60" alt="Header" />
+</div>
 
-### Add me 👇
-[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)](https://instagram.com/_osa.dhi_/)
-[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)](https://twitter.com/OsadhiVirochana)
-[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/osadhi-virochana-522491178/)
-[![](https://img.shields.io/badge/Stack_Overflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)](https://stackoverflow.com/users/13615205/osadhi-virochana-jayasinghe-si)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ff5e62&center=true&vCenter=true&width=435&lines=System.boot(Osadhi);Loading+Source+Code...;Compiling+Innovation..." alt="Typing SVG" />
+</div>
 
+---
 
-### Writings ✍
-Apart from coding, I also write answers on [Stack Overflow](https://stackoverflow.com/users/13615205/osadhi-virochana).
+### 🖥️ Terminal Session
 
-### Technologies & Tools 🔧
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+```bash
+osadhi@workspace:~$ ./fetch_profile.sh
 
-### Github Stats 📈
-[![](https://github-readme-stats.vercel.app/api?username=Osadhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Osadhi)
+      .---.      User:     Osadhi Virochana
+     /     \     Role:     Software Engineering Undergraduate
+    |   O   |    Focus:    Jotion Ecosystem
+     \     /     Stack:    Full Stack & Cloud Native
+      '---'      Location: Sri Lanka 🇱🇰
+                 Motto:    "Code with Passion"
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Osadhi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&border_radius=25)](https://github.com/Osadhi)
+osadhi@workspace:~$ cat /var/log/current_status.log
+[INFO] Architecting scalable solutions.
+[INFO] Exploring AI and Distributed Systems.
+[INFO] Coffee level: 85% ☕
+```
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Osadhi&repo=Local-Port-Scanner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&border_radius=25)](https://github.com/Osadhi/Local-Port-Scanner)
+---
+
+### 🛠️ The Engineering Arsenal
+
+<div align="center">
+
+![Core](https://img.shields.io/badge/Core%20Languages-ff5e62?style=for-the-badge&logo=code&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,go,rust&theme=light" />
+
+<br/>
+
+![Web](https://img.shields.io/badge/Web%20Technologies-ff9966?style=for-the-badge&logo=react&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,django,flask,php&theme=light" />
+
+<br/>
+
+![Infra](https://img.shields.io/badge/Infrastructure%20%26%20Tools-ff5e62?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,postgres,mongo,redis&theme=light" />
+
+</div>
+
+---
+
+### 📊 System Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osadhi&show_icons=true&count_private=true&hide_border=true&title_color=ff5e62&text_color=ffffff&icon_color=ff9966&bg_color=0d1117" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osadhi&layout=compact&hide_border=true&langs_count=8&title_color=ff5e62&text_color=ffffff&icon_color=ff9966&bg_color=0d1117" height="150" alt="Langs" />
+</div>
+
+### 🚀 Active Deployment
+
+<div align="center">
+  <a href="https://github.com/Osadhi/Jotion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Osadhi&repo=Jotion&hide_border=true&title_color=ff5e62&text_color=ffffff&icon_color=ff9966&bg_color=0d1117" alt="Jotion" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=100&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+
+### 📡 Establish Connection
+
+<p align="center">
+  <a href="https://instagram.com/_osa.dhi_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/OsadhiVirochana" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/osadhi-virochana-522491178/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13615205/osadhi-virochana-jayasinghe-si" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="mailto:dev@osadhiv.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
